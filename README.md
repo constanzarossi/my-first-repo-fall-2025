@@ -47,6 +47,11 @@ python app/rps.py
 python -m app.rps
 ```
 
+stocks dashboard
+
+```sh
+python -m app.stocks
+```
 
 ## Testing
 

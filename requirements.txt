@@ -6,6 +6,9 @@ pandas
 python-dotenv
 plotly
 
+# web app:
+flask
+
 # testing:
 pytest
 
